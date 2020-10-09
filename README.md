@@ -1,2 +1,2 @@
 # House-Pricing-Prediction
-Housing Prices Competition for Kaggle Learn Users
+Predicted the sales price for each house using Machine Learning model with the Random forest regression technique.
